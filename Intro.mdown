@@ -38,23 +38,16 @@ Upon successful completion of this course, you will be able to:
 ### Course Requirements
 
 In order to take this course, you must:
-
-&radic; have access to a computer;
-
-&radic; have continuous broadband Internet access;
-
-&radic; have the ability/permission to install plug-ins or software (e.g.,
+*    have access to a computer;
+*    have continuous broadband Internet access;
+*    have the ability/permission to install plug-ins or software (e.g.,
 Adobe Reader or Flash);
-
-&radic; have the ability to download and save files and documents to a
+*    have the ability to download and save files and documents to a
 computer;
-
-&radic; have the ability to open Microsoft files and documents (.doc, .ppt,
+*    have the ability to open Microsoft files and documents (.doc, .ppt,
 .xls, etc.);
-
-&radic; have competency in the English language; and
-
-&radic; have read the&nbsp;[Saylor Student Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+*    have competency in the English language; and
+*    have read the&nbsp;[Saylor Student Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
