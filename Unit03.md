@@ -1,6 +1,6 @@
 ---
 layout: no-sidebar
-type: page
+type: post
 title: Unit 3
 date: 1-4-2015
 published: true
