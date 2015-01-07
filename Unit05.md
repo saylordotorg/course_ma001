@@ -1,5 +1,6 @@
 ---
 layout: no-sidebar
+type: post
 title: Unit 5
 categories:
  - unit

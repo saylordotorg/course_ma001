@@ -1,5 +1,6 @@
 ---
 layout: no-sidebar
+type: post
 title: Intro
 categories:
  - intro
