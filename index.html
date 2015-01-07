@@ -13,7 +13,16 @@ layout: no-sidebar
   <ul>
   {% for post in site.posts %}
     <li>
+    <li>{{post.title}}</li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+    <ul>
+  {% for page in site.pages %}
+  <li>{{page.title}}</li>
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
   </ul>
