@@ -1,6 +1,8 @@
 ---
 layout: no-sidebar
 title: Unit 3
+categories:
+ - unit
 ---
 -   **Unit 3: Exponents and Polynomials**  
 

@@ -1,6 +1,8 @@
 ---
 layout: no-sidebar
 title: Unit 4
+categories:
+ - unit
 ---
 -   **Unit 4: Factoring Polynomials**  
 

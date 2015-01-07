@@ -1,6 +1,8 @@
 ---
 layout: no-sidebar
 title: Unit 1
+categories:
+ - unit
 ---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  
 

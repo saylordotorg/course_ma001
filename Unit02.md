@@ -1,6 +1,8 @@
 ---
 layout: no-sidebar
 title: Unit 2
+categories:
+ - unit
 ---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
 
