@@ -1,3 +1,6 @@
+---
+title: MA001 Unit 6
+---
 -   **Unit 6: Final Exam**  
     -   **Final Exam: The Saylor Foundation's "MA001 Final Exam"**
 
