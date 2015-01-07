@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 4
+permalink: /:title.html
+---
 -   **Unit 4: Factoring Polynomials**  
 
     *This unit expands on what you learned in Unit 3. In Unit 4, you

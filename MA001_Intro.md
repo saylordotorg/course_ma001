@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intro
+permalink: /:title.html
+---
 ## Course Syllabus for "MA001: Beginning Algebra"
 
 In this course, you will study basic algebraic operations and concepts, as

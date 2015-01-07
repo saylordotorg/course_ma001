@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 6
+permalink: /:title.html
+---
 -   **Unit 6: Final Exam**  
     -   **Final Exam: The Saylor Foundation's "MA001 Final Exam"**
 

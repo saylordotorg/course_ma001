@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 3
+permalink: /:title.html
+---
 -   **Unit 3: Exponents and Polynomials**  
 
     *This section introduces you to the concept of evaluating exponents,

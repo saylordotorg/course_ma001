@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 2
+permalink: /:title.html
+---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
 
     *In this unit, you will learn to apply the concept of solving

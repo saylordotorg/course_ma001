@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 5
+permalink: /:title.html
+---
 -   **Unit 5: Rational Expression**  
 
     *In this unit, you will learn how to evaluate rational expressions

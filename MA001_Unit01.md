@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unit 1
+permalink: /:title.html
+---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  
 
     *We begin by quickly reviewing the basics of pre-algebra concepts.
