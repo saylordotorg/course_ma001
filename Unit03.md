@@ -2,8 +2,7 @@
 layout: no-sidebar
 type: post
 title: Unit 3
-categories:
- - unit
+categories: [unit]
 ---
 -   **Unit 3: Exponents and Polynomials**  
 

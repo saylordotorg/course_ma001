@@ -2,8 +2,7 @@
 layout: no-sidebar
 type: post
 title: Unit 5
-categories:
- - unit
+categories: [unit]
 ---
 -   **Unit 5: Rational Expression**  
 

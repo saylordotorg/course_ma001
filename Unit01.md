@@ -2,8 +2,7 @@
 layout: no-sidebar
 type: post
 title: Unit 1
-categories:
- - unit
+categories: [unit]
 ---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  
 

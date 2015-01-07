@@ -2,8 +2,7 @@
 layout: no-sidebar
 type: post
 title: Unit 4
-categories:
- - unit
+categories: [unit]
 ---
 -   **Unit 4: Factoring Polynomials**  
 

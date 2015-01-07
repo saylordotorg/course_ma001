@@ -2,8 +2,7 @@
 layout: no-sidebar
 type: post
 title: Unit 2
-categories:
- - unit
+categories: [unit]
 ---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
 
