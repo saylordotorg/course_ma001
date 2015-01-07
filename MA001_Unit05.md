@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unit 5
-permalink: /:title.html
+permalink: /:title
 ---
 -   **Unit 5: Rational Expression**  
 

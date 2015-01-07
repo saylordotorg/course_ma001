@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro
-permalink: /:title.html
+permalink: /:title
 ---
 ## Course Syllabus for "MA001: Beginning Algebra"
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unit 3
-permalink: /:title.html
+permalink: /:title
 ---
 -   **Unit 3: Exponents and Polynomials**  
 

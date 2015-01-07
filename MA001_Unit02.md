@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unit 2
-permalink: /:title.html
+permalink: /:title
 ---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
 
