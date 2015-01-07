@@ -1,5 +1,3 @@
-Saylor.org - MA001: Beginning Algebra Syllabus
-
 ## Course Syllabus for "MA001: Beginning Algebra"
 
 In this course, you will study basic algebraic operations and concepts, as
@@ -15,12 +13,7 @@ expressions, to get your feet wet. You will then build on these concepts by
 learning more about functions, graphing of functions, evaluation of functions,
 and factorization. You will spend time on the rules of exponents and their
 applications in distribution of multiplication over addition/subtraction.
-**This course provides students the opportunity to earn actual college
-credit. It has been reviewed and recommended for 3 credit hours by [The National College Credit
-Recommendation Service](http://www.nationalccrs.org/) (NCCRS). While credit is not guaranteed at all
-schools, we have [partnered](http://old.saylor.org/partner-schools) with a number of schools who have expressed their
-willingness to accept transfer of credits earned through Saylor. You can read
-more about our NCCRS program [here](http://www.saylor.org/student-credit-pathways/nccrs/).**
+
 
 ### Learning Outcomes
 
@@ -38,16 +31,17 @@ Upon successful completion of this course, you will be able to:
 ### Course Requirements
 
 In order to take this course, you must:
-*    have access to a computer;
-*    have continuous broadband Internet access;
-*    have the ability/permission to install plug-ins or software (e.g.,
-Adobe Reader or Flash);
-*    have the ability to download and save files and documents to a
+
+*   have access to a computer;
+*   have continuous broadband Internet access;
+*   have the ability/permission to install plug-ins or software
+(e.g., Adobe Reader or Flash);
+*   have the ability to download and save files and documents to a
 computer;
-*    have the ability to open Microsoft files and documents (.doc, .ppt,
-.xls, etc.);
-*    have competency in the English language; and
-*    have read the&nbsp;[Saylor Student Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+*   have the ability to open Microsoft files and documents (.doc,
+.ppt, .xls, etc.);
+*   have competency in the English language; and
+*   have read the&nbsp;[Saylor Student Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -61,19 +55,18 @@ different free, online&nbsp;materials. The core of this course makes use of all
 the materials originally structured by the Washington State Board for Community
 and Technical Colleges. In particular, this course uses the following:
 
-*   Tyler Wallace&rsquo;s [_Beginning and Intermediate Algebra_,
+*   Tyler Wallace’s [_Beginning and Intermediate Algebra_,
         2<sup>nd</sup> edition](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)&nbsp;(PDF)
-*   Tyler Wallace&rsquo;s _[Beginning Algebra Lab Notebook](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)_&nbsp;(PDF)
+*   Tyler Wallace’s _[Beginning Algebra Lab Notebook](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)_&nbsp;(PDF)
 
-**Requirements for Completion:** In order to complete this
-course, you will need to work through each unit and all of its assigned
-materials. Each unit consists of subunits with videos on each topic. Each unit
-concludes with a homework problem set of varied lengths and a practice test.
-Also available for each unit is a practice set that you can use to further your
-understanding of the concepts. You will also need to complete the
-following:
+**Requirements for Completion:** In order to complete this course,
+you will need to work through each unit and all of its assigned materials. Each
+unit consists of subunits with videos on each topic. Each unit concludes with a
+homework problem set of varied lengths and a practice test. Also available for
+each unit is a practice set that you can use to further your understanding of
+the concepts. You will also need to complete the following:
 
-*   Unit 1 Assignments Yesv2!
+*   Unit 1 Assignments
 *   Unit 1 Practice Test
 *   Unit 2 Assignments
 *   Unit 2 Practice Test
@@ -85,14 +78,13 @@ following:
 *   Unit 5 Practice Test
 *   **Final Exam**
 
-Note that you will only receive an official grade on your final exam.
-However, in order to adequately prepare for this exam, you will need to work
-through the homework, practice exams, and problem sets listed above.
+Note that you will only receive an official grade on your final exam. However,
+in order to adequately prepare for this exam, you will need to work through the
+homework, practice exams, and problem sets listed above.
 
-In order to &ldquo;pass&rdquo; this course, you will need to earn a 70% or
-higher on the timed, two-hour final exam. Your score on the exam will be
-tabulated as soon as you complete it. If you do not pass the exam, you may take
-it again.
+In order to “pass” this course, you will need to earn a 70% or higher on the
+timed, two-hour final exam. Your score on the exam will be tabulated as soon as
+you complete it. If you do not pass the exam, you may take it again.
 
 **Time Commitment:** This course should take you a total of
 **104 hours** to complete. Each unit includes a time advisory that
