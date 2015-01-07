@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: linear
 title: Unit 3
 ---
 -   **Unit 3: Exponents and Polynomials**  

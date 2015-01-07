@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: linear
 title: Unit 5
 ---
 -   **Unit 5: Rational Expression**  

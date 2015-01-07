@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: linear
 title: Unit 1
 ---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  
