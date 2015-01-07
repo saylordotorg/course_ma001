@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Intro
 ---
 ## Course Syllabus for "MA001: Beginning Algebra"

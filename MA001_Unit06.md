@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Unit 6
 ---
 -   **Unit 6: Final Exam**  

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Unit 2
 ---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  

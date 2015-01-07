@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Unit 4
 ---
 -   **Unit 4: Factoring Polynomials**  
