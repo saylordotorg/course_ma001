@@ -9,18 +9,9 @@ layout: no-sidebar
 <div class="Description">
 <p>{{site.description}}</p><br>
   <h1 class="page-heading">Units</h1>
-
-  <ul><li>POSTS</li>
-  {% for post in site.posts %}
-    <li>
-    <li>{{post.title}}</li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-    <ul><li>PAGES</li>
+  <br>
+  <ul>
   {% for page in site.pages %}
-  <li>{{page.title}}</li>
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
