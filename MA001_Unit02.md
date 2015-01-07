@@ -1,3 +1,6 @@
+---
+title: MA001 Unit 2
+---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
 
     *In this unit, you will learn to apply the concept of solving
