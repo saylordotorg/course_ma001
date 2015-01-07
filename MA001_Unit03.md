@@ -1,3 +1,6 @@
+---
+title: MA001 Unit 3
+---
 -   **Unit 3: Exponents and Polynomials**  
 
     *This section introduces you to the concept of evaluating exponents,
