@@ -3,21 +3,25 @@ layout: no-sidebar
 ---
 
 <div class="home">
+<header>
+<h1>MA001: Beginning Algebra</h1>
+</header>
+<div class="Description">
+<p>{{site.description}}</p><br>
+  <h1 class="page-heading">Units</h1>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <ul class="page-list">
+    {% for pages in site.pages %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
+  <br>
+  <a class="page-link" href="{{page.next}}">Next</a>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+</div>
 </div>
