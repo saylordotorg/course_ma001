@@ -1,3 +1,6 @@
+---
+title: MA001 Unit 4
+---
 -   **Unit 4: Factoring Polynomials**  
 
     *This unit expands on what you learned in Unit 3. In Unit 4, you
