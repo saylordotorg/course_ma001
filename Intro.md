@@ -1,6 +1,6 @@
 ---
 layout: no-sidebar
-type: post
+type: page
 title: Intro
 date: 1-1-2015
 published: true
