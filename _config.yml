@@ -2,7 +2,7 @@
 title: MA001 - Basic Algebra
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Basic description for MA001.
+  Basic description for MA001.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://saylordotorg.github.io/course_ma001" # the base hostname & protocol for your site
 twitter_username: saylordotorg
@@ -10,3 +10,5 @@ github_username:  saylordotorg
 
 # Build settings
 markdown: kramdown
+
+
