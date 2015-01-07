@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Linear by TEMPLATED</title>
+		<title>{{site.title}}</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -29,10 +29,8 @@
 				<!-- Nav -->
 				<nav id="nav">
 					<ul>
-						<li><a href="index.html">Homepage</a></li>
-						<li><a href="left-sidebar.html">Left Sidebar</a></li>
-						<li><a href="right-sidebar.html">Right Sidebar</a></li>
-						<li class="active"><a href="no-sidebar.html">No Sidebar</a></li>
+						<li><a href="http://saylor.org">Saylor.org</a></li>
+						<li><a href="{{site.url | append: site.baseurl}}">Course Index</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -40,8 +38,8 @@
 				
 				<!-- Logo -->
 				<div id="logo">
-					<h1><a href="#">Linear</a></h1>
-					<span class="tag">By TEMPLATED</span>
+					<h1><a href="#">{{site.title}}</a></h1>
+					<span class="tag">{{site.description}}</span>
 				</div>
 			</div>
 		</div>
@@ -59,7 +57,7 @@
 		<div id="tweet">
 			<div class="container">
 				<section>
-					<blockquote>&ldquo;Fancy quote about education and stuff.&rdquo;</blockquote>
+					<blockquote>&ldquo;Fancy quote about education and stuff. -Some Guy&rdquo;</blockquote>
 				</section>
 			</div>
 		</div>
@@ -71,13 +69,14 @@
 				<section>
 					<header>
 						<h2>Get in touch</h2>
-						<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+						<span class="byline">We'd love to hear from you</span>
 					</header>
 					<ul class="contact">
-						<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
-						<li class="active"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
-						<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
-						<li><a href="#" class="fa fa-tumblr"><span>Google+</span></a></li>
+						<li><a href="http://twitter.com/#!/{{site.twitter_username}}" class="fa fa-twitter"><span>Twitter</span></a></li>
+						<li class="active"><a href="http://www.facebook.com/{{site.facebook_username}}" class="fa fa-facebook"><span>Facebook</span></a></li>
+						<li><a href="https://github.com/{{site.github_username}}" class="fa fa-github"><span>GitHub</span></a></li>
+						<li><a href="https://plus.google.com/{{site.googleplus_username}}/posts" class="fa fa-google"><span>Google+</span></a></li>
+						<li><a href="http://saylor.org" class="fa fa-email"><span>email</span></a></li>
 					</ul>
 				</section>
 			</div>

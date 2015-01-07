@@ -1,12 +1,14 @@
 # Site settings
 title: MA001 - Basic Algebra
-email: your-email@domain.com
+email: contact@saylor.org
 description: > # this means to ignore newlines until "baseurl:"
   Introduction to basic algebraic operations and concepts, as well as the structure and use of algebra.
 baseurl: "course_ma001" # the subpath of your site, e.g. /blog/
 url: "https://saylordotorg.github.io" # the base hostname & protocol for your site
 twitter_username: saylordotorg
 github_username:  saylordotorg
+facebook_username: SaylorFoundation
+googleplus_username: 105426497265909285606
 
 # Build settings
 markdown: kramdown
