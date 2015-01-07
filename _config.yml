@@ -3,7 +3,7 @@ title: MA001 - Basic Algebra
 email: contact@saylor.org
 description: > # this means to ignore newlines until "baseurl:"
   Introduction to basic algebraic operations and concepts, as well as the structure and use of algebra.
-baseurl: "course_ma001" # the subpath of your site, e.g. /blog/
+baseurl: "https://saylordotorg.github.io/course_ma001/course_ma001" # the subpath of your site, e.g. /blog/
 url: "https://saylordotorg.github.io/course_ma001" # the base hostname & protocol for your site
 twitter_username: saylordotorg
 github_username:  saylordotorg
