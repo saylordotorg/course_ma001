@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Unit 1
+date: 1-2-2015
+published: true
 categories: [unit]
 ---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  

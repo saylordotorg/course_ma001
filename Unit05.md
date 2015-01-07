@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Unit 5
+date: 1-6-2015
+published: true
 categories: [unit]
 ---
 -   **Unit 5: Rational Expression**  

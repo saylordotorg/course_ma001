@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Unit 6
+date: 1-7-2015
+published: true
 categories: [unit]
 ---
 -   **Unit 6: Final Exam**  

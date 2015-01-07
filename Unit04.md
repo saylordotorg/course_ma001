@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Unit 4
+date: 1-5-2015
+published: true
 categories: [unit]
 ---
 -   **Unit 4: Factoring Polynomials**  

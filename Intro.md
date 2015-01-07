@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Intro
+date: 1-1-2015
+published: true
 categories: [intro, unit]
 ---
 ## Course Syllabus for "MA001: Beginning Algebra"

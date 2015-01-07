@@ -2,6 +2,8 @@
 layout: no-sidebar
 type: post
 title: Unit 2
+date: 1-3-2015
+published: true
 categories: [unit]
 ---
 -   **Unit 2: Solving Linear Inequalities and Graphing**  
