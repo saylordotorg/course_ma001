@@ -10,5 +10,6 @@ github_username:  saylordotorg
 
 # Build settings
 markdown: kramdown
+permalink: title
 
 

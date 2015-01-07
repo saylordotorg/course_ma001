@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 4
-permalink: /:title
 ---
 -   **Unit 4: Factoring Polynomials**  
 

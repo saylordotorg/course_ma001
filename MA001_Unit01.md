@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Unit 1
-permalink: /:title
 ---
 -   **Unit 1: Review of Major Pre-Algebra Concepts**  
 
