@@ -1,5 +1,9 @@
 ---
-title: MA001 Intro
+layout: default
+title: "MA001: Beginning Algebra"
+course_description: "An introduction to basic algebraic operations and concepts, as well as the structure and use of algebra. Topics include solving algebraic equations, factoring algebraic expressions, working with rational expressions, and graphing linear equations."
+next: ../Unit01
+previous: ../../../
 ---
 ## Course Syllabus for "MA001: Beginning Algebra"
 
