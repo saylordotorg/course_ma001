@@ -51,7 +51,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.1 Rational
         Expressions - Reduce Rational
-        Expressions"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Expressions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Rational expressions are just
@@ -78,7 +78,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Reduce
         -
-        Evaluate"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Evaluate"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 94 of Wallace's workbook for
         practice with reducing rational expressions. Try to complete
@@ -120,7 +120,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Reduce
         - Reduce
-        Fractions"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 95 of Wallace's workbook for
         practice with reducing fractions. Try to complete this exercise
@@ -164,7 +164,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Reduce
         -
-        Monomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Monomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 96 of Wallace's workbook for
         practice with reducing monomials. Try to complete this exercise
@@ -220,7 +220,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Reduce
         -
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 97 of Wallace's workbook for
         practice with reducing polynomials. Try to complete this
@@ -278,7 +278,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Reduce Rational
-        Expressions"](http://www.saylor.org/site/wp-content/uploads/2012/07/7.1-Reduce-Practice.pdf) (PDF)  
+        Expressions"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/7.1-Reduce-Practice.pdf) (PDF)  
            
          Instructions: Answer all of the odd-numbered problems for
         questions 1 through 49. Solutions appear on page 3 of the PDF.  
@@ -300,7 +300,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.2: Rational
         Expression - Multiply &
-        Divide"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Divide"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Again, rules for exponents are
         paramount, but now focus on dividing as "inverting and
@@ -325,7 +325,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Multiply and Divide -
-        Fractions"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 98 of Wallace's workbook for
@@ -391,7 +391,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Multiply and Divide -
-        Monomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Monomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 99 of Wallace's workbook for
         practice with multiplying and dividing monomials. Try to
@@ -451,7 +451,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Multiply and Divide -
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 100 of Wallace's workbook for
         practice with multiplying and dividing polynomials. Try to
@@ -490,7 +490,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Multiply and Divide - Both at
-        Once"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Once"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 101 of Wallace's workbook for
         practice with multiplying and dividing polynomials both at once.
@@ -572,7 +572,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Multiply and
-        Divide"](http://www.saylor.org/site/wp-content/uploads/2012/07/7.2-Multiply-and-Divide-Practice.pdf) (PDF)  
+        Divide"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/7.2-Multiply-and-Divide-Practice.pdf) (PDF)  
            
          Instructions: Answer all of the odd-numbered problems for
         questions 1 through 43. Solutions appear on page 3 of the PDF.  
@@ -594,7 +594,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.3: Rational
         Expressions - Least Common
-        Denominators"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Denominators"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. One of the skills students
         have most difficulty with is adding fractions. You can make this
@@ -619,7 +619,7 @@ previous: ../Unit04
         "LCD - Numbers"**
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["LCD -
-        Numbers"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Numbers"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 102 of Wallace's workbook for
         practice with the Lowest Common Denominator (LCD). Try to
@@ -681,7 +681,7 @@ previous: ../Unit04
         "LCD - Monomials"**
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["LCD -
-        Monomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Monomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 103 of Wallace's workbook for more
@@ -737,7 +737,7 @@ previous: ../Unit04
         "LCD - Polynomials"**
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["LCD -
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 104 of Wallace's workbook for more
         practice with Lowest Common Denominators. Try to complete this
@@ -775,7 +775,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Least Common
-        Denominator"](http://www.saylor.org/site/wp-content/uploads/2012/07/7.3-LCD-Practice.pdf) (PDF)  
+        Denominator"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/7.3-LCD-Practice.pdf) (PDF)  
            
          Instructions: Answer questions 11-20. If necessary, use the
         videos and information in this subunit to help you solve these
@@ -798,7 +798,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.4: Rational
         Expressions - Add &
-        Subtract"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Subtract"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section and complete the corresponding
         workbook assignment for this subunit. Notice that most of the
@@ -826,7 +826,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Add
         and Subtract -
-        Fractions"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 105 of Wallace's workbook for
         practice with adding and subtracting fractions. Try to complete
@@ -899,7 +899,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.5: Add and
         Subtract Rational Expressions: Different Denominator (Part
-        1)"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        1)"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section and complete the corresponding
         workbook assignment for the subunit. Note that this reading
@@ -918,7 +918,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Add
         and Subtract - Common
-        Denominator"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Denominator"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 106 of Wallace's workbook for
         practice with adding and subtracting common denominators. Try to
@@ -988,7 +988,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Add
         and Subtract - Different
-        Denominators"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Denominators"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
             
          Instructions: Complete page 107 of Wallace's workbook for
         practice with adding and subtracting different denominators. Try
@@ -1057,7 +1057,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Add and
-        Subtract"](http://www.saylor.org/site/wp-content/uploads/2012/07/7.4-Add-and-Subtract-Practice.pdf) (PDF)  
+        Subtract"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/7.4-Add-and-Subtract-Practice.pdf) (PDF)  
            
          Instructions: Answer the odd-numbered problems for questions 1
         through 43. Solutions appear on page 2 of the PDF.  
@@ -1079,7 +1079,7 @@ previous: ../Unit04
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 7, Section 7.8: Rational
         Expressions - Dimensional
-        Analysis"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Analysis"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section and complete the corresponding
         workbook assignment for this subunit. Notice how converting from
@@ -1107,7 +1107,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Dimensional Analysis - Convert Single
-        Unit"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Unit"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 108 of Wallace's workbook for
         practice with dimensional analysis in which you convert single
@@ -1152,7 +1152,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Dimensional Analysis - Convert Two
-        Units"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Units"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 109 of Wallace's workbook for
         practice with dimensional analysis with converting dual units.
@@ -1191,7 +1191,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Dimensional
-        Analysis"](http://www.saylor.org/site/wp-content/uploads/2012/07/7.8-Dimentional-Analysis-Practice.pdf) (PDF)  
+        Analysis"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/7.8-Dimentional-Analysis-Practice.pdf) (PDF)  
            
          Instructions: Answer all of the problems. Solutions appear on
         page 3 of the PDF.  
@@ -1210,7 +1210,7 @@ previous: ../Unit04
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Unit 5 Practice
-        Test"](http://www.saylor.org/site/wp-content/uploads/2012/07/MPC_95_Module_E_Practice_Test.pdf) (PDF)  
+        Test"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MPC_95_Module_E_Practice_Test.pdf) (PDF)  
            
          Instructions: Review Unit 5 before taking this practice test.
         Be sure that you are ready before taking the practice test, as
@@ -1220,7 +1220,7 @@ previous: ../Unit04
         the practice test. When you have finished this practice test,
         you may check your answers against the Saylor Foundation's
         ["Unit 5 Practice Test - Answer
-        Key"](http://www.saylor.org/site/wp-content/uploads/2014/05/MA001-Unit-5-Practice-Test-Solutions-FINAL.pdf).  
+        Key"](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA001-Unit-5-Practice-Test-Solutions-FINAL.pdf).  
            
          Completing this practice test should take about 3 hours.  
            

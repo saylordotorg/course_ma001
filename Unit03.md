@@ -47,7 +47,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5: Section 5.1: Polynomials -
         Exponent
-        Properties"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Properties"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section . Polynomials are all about
@@ -75,7 +75,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Exponents - Product
-        Rule"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Rule"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 51 of Wallace's workbook to
         practice implementing the product rule. Try to complete this
@@ -132,7 +132,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Exponents - Quotient
-        Rule"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Rule"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 52 of Wallace's workbook to
@@ -190,7 +190,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Exponents - Power
-        Rules"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Rules"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 53 of Wallace's workbook to
         practice implementing the power rule. Try to complete this
@@ -245,7 +245,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.2 Polynomials -
         Negative
-        Exponents"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Exponents"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Notice that a negative
         exponent in the denominator is the same as a positive exponent
@@ -267,7 +267,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Exponents -
-        Zero"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Zero"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 54 of Wallace's workbook to
         practice with the zero power rule. Try to complete this exercise
@@ -309,7 +309,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Exponents - Negative
-        Exponents"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Exponents"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 55 of Wallace's workbook to
         practice with negative exponents. Try to complete this exercise
@@ -377,7 +377,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Exponents -
-        Properties"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Properties"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
             
          Instructions: Complete page 56 of Wallace's workbook to solve
         equations using the properties of exponents. Try to complete
@@ -468,15 +468,15 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Exponent
-        Properties"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.1-Exponents-Practice.pdf)
+        Properties"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.1-Exponents-Practice.pdf)
         (PDF) and ["Practice - Negative
-        Exponents"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf) (PDF)  
+        Exponents"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf) (PDF)  
             
          Instructions: For the first link to "Practice
-        [-](http://www.saylor.org/site/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf)
+        [-](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf)
         Exponent Properties," answer the odd-numbered problems for
         questions 1 through 43. For the second link to "Practice
-        [-](http://www.saylor.org/site/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf)
+        [-](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.2-Negative-Exponents-Practice.pdf)
         Negative Exponents," answer the odd-numbered problems for
         questions 1 through 39. Solutions appear at the end of each
         PDF.  
@@ -498,7 +498,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.3: Polynomials -
         Scientific
-        Notation"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Notation"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Scientific notation allows us
         a general idea of the size of a number with a glance at the
@@ -525,7 +525,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's Beginning Algebra Lab Notebook:
         ["Scientific Notation -
-        Convert"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Convert"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
             
          Instructions: Complete page 57 of Wallace's workbook to
         practice with converting between standard and scientific
@@ -568,7 +568,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Scientific Notation - Close to
-        Scientific"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Scientific"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
             
          Instructions: Complete page 58 of Wallace's workbook for more
         practice with scientific notation. Try to complete this exercise
@@ -612,7 +612,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Scientific Notation -
-        Multiply/Divide"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Multiply/Divide"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 59 of Wallace's workbook for more
         practice with scientific notation. Try to complete this exercise
@@ -655,7 +655,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Scientific Notation - Multiply/Divide where answer
         is not
-        scientific"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        scientific"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 60 of Wallace's workbook to
         practice with multiplying and dividing scientific notation with
@@ -697,7 +697,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Scientific
-        Notation"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.3-Scientific-Notation-Practice.pdf) (PDF)  
+        Notation"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.3-Scientific-Notation-Practice.pdf) (PDF)  
            
          Instructions: Answer the odd-numbered problems for questions 1
         through 41. Solutions appear on page 2 of the PDF.  
@@ -720,7 +720,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.4: Polynomials -
         Introduction to
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Evaluating a polynomial is
         simply plugging in a value for the variable and then
@@ -760,7 +760,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Polynomials -
-        Add/Subtract"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Add/Subtract"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 62 of Wallace's workbook to
         practice adding and subtracting polynomials. Try to complete
@@ -801,7 +801,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.5: Polynomials -
         Multiplying
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Multiplying polynomials is all
         about being careful with distribution (focus on how parentheses
@@ -823,7 +823,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Polynomials - Multiply by
-        Monomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Monomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 63 of Wallace's workbook to
         practice multiplying by monomials. Try to complete this exercise
@@ -865,7 +865,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Polynomials - Multiply by
-        Binomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Binomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 64 of Wallace's workbook to
         practice multiplying by binomials. Try to complete this exercise
@@ -907,7 +907,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Polynomials - Multiply by
-        Trinomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Trinomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 65 of Wallace's workbook to
         practice multiplying by trinomials. Try to complete this
@@ -950,7 +950,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Polynomials - Multiply Monomials and
-        Binomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Binomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 66 of Wallace's workbook to
         practice multiplying monomials by binomials. Try to complete
@@ -993,7 +993,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.6: Polynomials -
         Multiply Special
-        Products"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Products"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
             
          Instructions: Read this section. The idea of this section is to
@@ -1015,7 +1015,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Polynomials - Sums and
-        Difference"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Difference"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 67 of Wallace's workbook to
         practice multiplying monomials by binomials. Try to complete
@@ -1089,7 +1089,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's Beginning Algebra Lab
         Notebook: ["Polynomials - Perfect
-        Square"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Square"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 68 of Wallace's workbook to
         practice with perfect squares. Try to complete this exercise
@@ -1142,11 +1142,11 @@ previous: ../Unit02
 
         Links: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Introduction to
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2012/04/5.4-Introduction-to-Polynomials-Practice.pdf)
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2012/04/5.4-Introduction-to-Polynomials-Practice.pdf)
         (PDF), ["Practice - Multiply
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.5-Multiply-Polynomials-Practice.pdf) (PDF),
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.5-Multiply-Polynomials-Practice.pdf) (PDF),
         and ["Practice - Multiply Special
-        Products"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.6-Multiply-Special-Products-Practice.pdf) (PDF)  
+        Products"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.6-Multiply-Special-Products-Practice.pdf) (PDF)  
            
          Instructions: For the first link to "Practice - Introduction to
         Polynomials," answer every other odd numbered problem for
@@ -1175,7 +1175,7 @@ previous: ../Unit02
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 5, Section 5.7: Polynomials -
         Divide
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Dividing polynomials is just
@@ -1200,7 +1200,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Division - By
-        Monomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Monomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 69 of Wallace's workbook to
         practice dividing monomials. Try to complete this exercise
@@ -1241,7 +1241,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Division - By
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 70 of Wallace's workbook to
         practice dividing polynomials. Try to complete this exercise
@@ -1282,7 +1282,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Division - Missing
-        Terms"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Terms"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 71 of Wallace's workbook for more
         practice with dividing polynomials. Try to complete this
@@ -1337,7 +1337,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Divide
-        Polynomials"](http://www.saylor.org/site/wp-content/uploads/2012/07/5.7-Divide-Polynomials-Practice.pdf) (PDF)  
+        Polynomials"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/5.7-Divide-Polynomials-Practice.pdf) (PDF)  
            
          Instructions: Answer odd-numbered problems for questions 1
         through 43. Keep in mind that you are allowed to watch the
@@ -1359,7 +1359,7 @@ previous: ../Unit02
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Unit 3 Practice
-        Test"](http://www.saylor.org/site/wp-content/uploads/2012/07/MPC_95_Module_C_Practice_Test.pdf) (PDF)  
+        Test"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MPC_95_Module_C_Practice_Test.pdf) (PDF)  
            
          Instructions: Review Unit 3 before clicking on the link above
         to take the practice test.  Be sure that you are ready before
@@ -1369,7 +1369,7 @@ previous: ../Unit02
         watching the videos to prep for the practice test. When you have
         finished this practice test, you may check your answers against
         the Saylor Foundation's ["Unit 3 Practice Test - Answer
-        Key"](http://www.saylor.org/site/wp-content/uploads/2013/03/MA001-Unit-3-C-Practice-Test-Solutions-FINAL-for-merge.pdf). [Disagree
+        Key"](https://resources.saylor.org/archived/wp-content/uploads/2013/03/MA001-Unit-3-C-Practice-Test-Solutions-FINAL-for-merge.pdf). [Disagree
         with an answer? [View and discuss errata
         here](http://forums.saylor.org/topic/unit-3-practice-test-answers/).]  
            
