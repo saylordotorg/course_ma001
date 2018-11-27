@@ -41,7 +41,7 @@ computer;
 *   have the ability to open Microsoft files and documents (.doc,
 .ppt, .xls, etc.);
 *   have competency in the English language; and
-*   have read the&nbsp;[Saylor Student Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+*   have read the&nbsp;[Saylor Student Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -56,8 +56,8 @@ the materials originally structured by the Washington State Board for Community
 and Technical Colleges. In particular, this course uses the following:
 
 *   Tyler Wallace’s [_Beginning and Intermediate Algebra_,
-        2<sup>nd</sup> edition](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)&nbsp;(PDF)
-*   Tyler Wallace’s _[Beginning Algebra Lab Notebook](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)_&nbsp;(PDF)
+        2<sup>nd</sup> edition](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)&nbsp;(PDF)
+*   Tyler Wallace’s _[Beginning Algebra Lab Notebook](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)_&nbsp;(PDF)
 
 **Requirements for Completion:** In order to complete this course,
 you will need to work through each unit and all of its assigned materials. Each

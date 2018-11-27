@@ -40,7 +40,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 3, Section 3.1: Inequalities -
         Solve and Graph
-        Inequalities"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Inequalities"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Note the difference in meaning
         among "equal," "less than," and "less than or equal," and the
@@ -67,7 +67,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Inequalities -
-        Graphing"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Graphing"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 32 of Wallace's workbook to
@@ -146,7 +146,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Inequalities - Interval
-        Notation"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Notation"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 33 of Wallace's workbook to
         practice with interval notation. Try to complete this exercise
@@ -207,7 +207,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Inequalities -
-        Solving"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Solving"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 34 of Wallace's workbook to
         practice solving inequalities. Try to complete this exercise
@@ -250,7 +250,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Inequalities -
-        Tripartite"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Tripartite"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 35 of Wallace's workbook to
         practice solving inequalities. Try to complete this exercise
@@ -296,9 +296,9 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Solve and Graph
-        Inequalities"](http://www.saylor.org/site/wp-content/uploads/2012/07/3.1-Simple-Inequalities-Practice.pdf) (PDF)
+        Inequalities"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/3.1-Simple-Inequalities-Practice.pdf) (PDF)
         and ["Practice - Compound
-        Inequalities"](http://www.saylor.org/site/wp-content/uploads/2012/07/3.2-Compound-Inequalities-Practice.pdf)
+        Inequalities"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/3.2-Compound-Inequalities-Practice.pdf)
         (PDF)  
            
          Instructions: For the first link to section 3.1 of the
@@ -324,7 +324,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 2, Section 2.1: Graphing -
         Point and
-        Lines"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Lines"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section, on pages 89 to 93. One of our
         most powerful tools is visualization; graphs and XY coordinates
@@ -345,7 +345,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Graphing and Slope - Points and
-        Lines"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Lines"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 36 of Wallace's workbook for
         practice with graphing based on points provided or equation of
@@ -402,7 +402,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 2, Section 2.2: Graphing -
-        Slope"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Slope"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section, which focuses on one
@@ -424,7 +424,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Graphing and Slope - Slope from a
-        Graph"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Graph"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 37 of Wallace's workbook to work on
         determining the slope of a line, given the line on a graph. Try
@@ -468,7 +468,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Graphing and Slope - Slope from Two
-        Points"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Points"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 38 of Wallace's workbook to work on
         finding the slope when given two sets of points. Try to complete
@@ -527,9 +527,9 @@
 
         Links: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Points and
-        Lines"](http://www.saylor.org/site/wp-content/uploads/2012/07/2.1-Points-and-Lines-Practice.pdf) (PDF)
+        Lines"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/2.1-Points-and-Lines-Practice.pdf) (PDF)
         and ["Practice -
-        Slope"](http://www.saylor.org/site/wp-content/uploads/2012/07/2.2-Slope-Practice.pdf) (PDF)  
+        Slope"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/2.2-Slope-Practice.pdf) (PDF)  
            
          Instructions: Work through problems 1, 2, and every other odd
         problem from question 3 through 21 in section 2.1 of the
@@ -554,7 +554,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 2, Section 2.3: Graphing -
         Slope-Intercept
-        Form"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Form"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. We know what a line is when we
         see it plotted. There is more than one useful way to write the
@@ -579,7 +579,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Equations - Slope
-        Intercept Equation"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Intercept Equation"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 39 of Wallace's workbook to
         practice providing the slope intercept equation when given
@@ -642,7 +642,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Equations - Put in Intercept
-        Form"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Form"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 40 of Wallace's workbook to
         practice putting an equation in intercept form. Try to complete
@@ -686,7 +686,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Equations -
-        Graph"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Graph"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 41 of Wallace's workbook to work on
@@ -731,7 +731,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Equations -
-        Vertical/Horizontal"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Vertical/Horizontal"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 42 of Wallace's workbook to
         practice graphing or finding the equations for vertical and
@@ -775,7 +775,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Equations - Point
-        Slope"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Slope"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 43 of Wallace's workbook to
         practice finding the point slope equation, given a point the
@@ -830,7 +830,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Equations - Given Two
-        Points"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Points"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 44 of Wallace's workbook to
         practice with finding an equation when given two points. Try to
@@ -870,9 +870,9 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice -
-        Slope-Intercept"](http://www.saylor.org/site/wp-content/uploads/2012/07/2.3-Slope-Intercept-Practice.pdf) (PDF)
+        Slope-Intercept"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/2.3-Slope-Intercept-Practice.pdf) (PDF)
         and ["Practice - Point-Slope
-        Form"](http://www.saylor.org/site/wp-content/uploads/2012/07/2.4-Point-Slope-Practice.pdf) (PDF)  
+        Form"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/2.4-Point-Slope-Practice.pdf) (PDF)  
            
          Instructions: For the first link to the "Practice -
         Slope-Intercept," answer every other odd-numbered problem in
@@ -898,7 +898,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 2, Section 2.5: Graphing -
         Parallel and Perpendicular
-        Lines"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Lines"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Parallel lines never
         intersect, which is good to know if you are looking for an
@@ -944,7 +944,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Parallel and Perpendicular -
-        Slope"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Slope"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 45 of Wallace's workbook to
         practice determining whether lines will be parallel,
@@ -990,7 +990,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Parallel and Perpendicular -
-        Equations"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 46 of Wallace's workbook to find
         the equations of parallel and perpendicular lines. Try to
@@ -1029,7 +1029,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Parallel and Perpendicular
-        Lines"](http://www.saylor.org/site/wp-content/uploads/2012/07/2.5-Parallel-and-Perpendicular-Practice.pdf) (PDF)  
+        Lines"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/2.5-Parallel-and-Perpendicular-Practice.pdf) (PDF)  
            
          Instructions: At the link above, answer the odd-numbered
         problems for questions 1 through 47. Solutions appear on page 3
@@ -1052,7 +1052,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.10: Solving
         Linear Equations - Distance, Rate and
-        Time"](http://www.saylor.org/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Time"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. The relationship among
         distance, rate, and time is one of the simplest and most
@@ -1079,7 +1079,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Distance - Opposite
-        Directions"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Directions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 47 of Wallace's workbook to
         practice solving distance problems. Try to complete this
@@ -1130,7 +1130,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Distance - Catch
-        Up"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Up"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 48 of Wallace's workbook to
         practice solving distance problems. Try to complete this
@@ -1174,7 +1174,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Distance - Total
-        Time"](http://www.saylor.org/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Time"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 49 of Wallace's workbook to
         practice solving distance problems. Try to complete this
@@ -1215,7 +1215,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Distance, Rate, and Time
-        Problems"](http://www.saylor.org/site/wp-content/uploads/2012/07/1.10-Distance-Practice.pdf) (PDF)  
+        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.10-Distance-Practice.pdf) (PDF)  
            
          Instructions: Answer the odd-numbered problems for questions 1
         through 37. Solutions are on page 5 of the PDF.  
@@ -1235,7 +1235,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Unit 2 Practice
-        Test"](http://www.saylor.org/site/wp-content/uploads/2012/07/MPC_95_Module_B_Practice_Test.pdf) (PDF)  
+        Test"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MPC_95_Module_B_Practice_Test.pdf) (PDF)  
            
          Instructions: Review Unit 2 before taking this practice test.
         Be sure that you are ready before taking the practice test, as
@@ -1245,7 +1245,7 @@
         the practice test. When you have finished this practice test,
         you may check your answers against The Saylor Foundation's
         ["Unit 2 Practice Test - Answer
-        Key"](http://www.saylor.org/site/wp-content/uploads/2014/05/MA001-Unit-2-Practice-Test-Solutions-FINAL.pdf).  
+        Key"](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA001-Unit-2-Practice-Test-Solutions-FINAL.pdf).  
            
          Completing this practice test should take approximately 3
         hours.  
