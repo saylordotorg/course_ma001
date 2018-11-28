@@ -54,7 +54,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 0, Section 0.3: Order of
-        Operations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Operations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Please read section 0.3 to learn about order of
         operations. The assignment listed under this subunit corresponds
@@ -85,7 +85,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Order
         of
-        Operations - Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Operations - Introduction"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Please complete pages 4 to 6 of Wallace's
         workbook to learn about order of operations. Try to complete
@@ -115,7 +115,7 @@ previous: ../Intro
         stands for. Note that the video does not make use of the equal
         sign. Please take a look at The Saylor Foundation's ["Revision
         to MA001
-        Video"](https://resources.saylor.org/archived/wp-content/uploads/2012/03/MA001-1.1.1-RevisiontoVideo-FINAL.pdf) for
+        Video"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/MA001-1.1.1-RevisiontoVideo-FINAL.pdf) for
         a detailed explanation of how to solve the two problems
         presented in the video.  
            
@@ -155,7 +155,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Order
         of Operations - Absolute
-        Value"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Value"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete pages 7 and 8 of Wallace's workbook to
         apply your knowledge about order of operations with absolute
@@ -202,7 +202,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Order
         of Operations -
-        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Fractions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 6 of Wallace's workbook to practice
@@ -252,7 +252,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Order of
-        Operation"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/0.3-Order-of-Operations-Practice.pdf) (PDF)  
+        Operation"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/0.3-Order-of-Operations-Practice.pdf) (PDF)  
            
          Instructions: Review the topics covered in the course so far,
         and then complete these exercises. Answer only the odd-numbered
@@ -274,7 +274,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 0, Section 0.4: Properties of
-        Algebra"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Algebra"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section to learn how to evaluate
         algebraic expressions for some given values. Note that this
@@ -299,7 +299,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Simplify Algebraic Expressions -
-        Evaluate"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Evaluate"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 8 of Wallace's workbook to evaluate
         algebraic expressions. Try to complete this exercise before
@@ -343,7 +343,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Simplify Algebraic Expressions - Combine Like
-        Terms"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Terms"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 9 of Wallace's workbook for
         practice with combining like terms. Try to complete this
@@ -389,7 +389,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Simplify Algebraic Expressions - Distributive
-        Properties"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Properties"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 10 of Wallace's workbook for
@@ -436,7 +436,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Simplify Algebraic Expressions - Distribute and
-        Combine"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Combine"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 11 of Wallace's workbook for
         practice with distributing and combining like terms. Try to
@@ -481,7 +481,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Properties of
-        Algebra"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/0.4-Properties-of-Algebra-Practice.pdf) (PDF)  
+        Algebra"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/0.4-Properties-of-Algebra-Practice.pdf) (PDF)  
            
          Instructions: Review the topics covered above, watch the
         videos, and then do the exercises provided in the link above.
@@ -525,7 +525,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.1: Solving Linear
         Equations - One Step
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section, beginning on page 28, to learn
@@ -561,7 +561,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Linear
         Equations - One Step
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 12 of Wallace's workbook for
         practice with solving one step linear equations.  
@@ -583,7 +583,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.2: Linear
         Equations - Two Step
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read section 1.2 on page 33 to learn how to solve
         "two step equations." Note that the assignment at the end of
@@ -602,7 +602,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Linear
         Equations - Two Step
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 13 of Wallace's workbook for
@@ -645,7 +645,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.3: Solving Linear
         Equations - General Linear
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section, beginning on page 37, to learn
@@ -664,7 +664,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Linear
         Equations -
-        General"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        General"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 14 of Wallace's workbook for
         practice with simplifying general linear equations with one
@@ -699,7 +699,7 @@ previous: ../Intro
         is -6. For a full explanation of how to solve the problem,
         please read The Saylor Foundation's ["Revision to Tyler
         Wallace's 'Linear Equations in One
-        Variable'"](https://resources.saylor.org/archived/wp-content/uploads/2012/03/MA001-1.3.4-RevisiontoVideo-FINAL.pdf).  
+        Variable'"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/MA001-1.3.4-RevisiontoVideo-FINAL.pdf).  
            
          Terms of Use: This resource is licensed under a [Creative
         Commons Attribution 3.0
@@ -730,7 +730,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.4: Solving Linear
         Equations -
-        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Fractions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section, beginning on page 43, to learn
@@ -750,7 +750,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Linear
         Equations - Fractions" and "Linear Equations - Distributing with
-        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Fractions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete pages 15 and 16 of Wallace's workbook
         for practice with solving equations with fractions. Try to
@@ -833,11 +833,11 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Two Step
-        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2014/11/1.2-Two-Step-Equations-Practice.pdf) (PDF), ["Practice
+        Problems"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/11/1.2-Two-Step-Equations-Practice.pdf) (PDF), ["Practice
         - General Linear
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.3-General-Linear-Equations-Practice.pdf) (PDF),
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.3-General-Linear-Equations-Practice.pdf) (PDF),
         and ["Practice -
-        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.4-Fractions-Practice.pdf) (PDF)  
+        Fractions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.4-Fractions-Practice.pdf) (PDF)  
             
          Instructions: Access the homework assessments. For the first
         link to section 1.2 of the textbook, answer every other
@@ -865,7 +865,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.5: Solving Linear
         Equations -
-        Formula"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Formula"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. You now have the skills to
         take a formula that relates two or more quantities and solve it
@@ -893,7 +893,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Formulas - Two Step
-        Formulas"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Formulas"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 17 of Wallace's workbook for
         practice with two-step formulas. Try to complete this exercise
@@ -936,7 +936,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Formulas - Multi-Step
-        Formulas"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Formulas"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 18 of Wallace's workbook for
         practice with multi-step formulas. Try to complete this exercise
@@ -980,7 +980,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Formulas -
-        Fractions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Fractions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 19 of Wallace's workbook for
@@ -1020,7 +1020,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice -
-        Formulas"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.5-Formulas-Practice.pdf) (PDF)  
+        Formulas"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.5-Formulas-Practice.pdf) (PDF)  
             
          Instructions: Review the topics, watch the videos, and do the
         exercises provided in the link above. Answer the odd-numbered
@@ -1044,7 +1044,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.6: Solving Linear
         Equations - Absolute
-        Value"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Value"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. The equations x - 3 = 2 and |x
@@ -1072,7 +1072,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Absolute Value - Two
-        Solutions"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Solutions"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 20 of Wallace's workbook to
         practice solving absolute value equations with two solutions.
@@ -1116,7 +1116,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Absolute Value - Isolate
-        Absolute"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Absolute"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 21 of Wallace's workbook for
         practice with isolating absolute values. Try to complete this
@@ -1161,7 +1161,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Absolute Value - Two
-        Absolutes"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Absolutes"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 22 of Wallace's workbook to
         practice solving for variables with equations that contain two
@@ -1201,7 +1201,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Absolute Value
-        Equations"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.6-Absolute-Value-Practice.pdf)
+        Equations"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.6-Absolute-Value-Practice.pdf)
         (PDF)  
            
          Instructions: Review the topics covered in the course so far,
@@ -1226,7 +1226,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.8: Linear
         Equations - Number and
-        Geometry"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Geometry"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Word problems are about
@@ -1254,7 +1254,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Word
         Problems - Number
-        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Problems"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 23 of Wallace's workbook to apply
         your knowledge of consecutive even and odd integers. Try to
@@ -1299,7 +1299,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Word
         Problems - Consecutive
-        Integers"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Integers"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 24 of Wallace's workbook to
         practice solving word problems with consecutive integers. Try to
@@ -1345,7 +1345,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Word
         Problems - Consecutive
-        Even/Odd"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Even/Odd"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 25 of Wallace's workbook to apply
         your knowledge of consecutive even and odd integers. Try to
@@ -1389,7 +1389,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Word
         Problems -
-        Triangles"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Triangles"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 26 of Wallace's workbook to
         practice solving word problems that involve angles of triangles.
@@ -1432,7 +1432,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Word
         Problems -
-        Perimeter"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Perimeter"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 27 of Wallace's workbook to
@@ -1475,7 +1475,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Number and Geometry
-        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.8-Number-and-Geometry-Practce.pdf) (PDF)  
+        Problems"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.8-Number-and-Geometry-Practce.pdf) (PDF)  
            
          Instructions: Review the topics covered so far in this course,
         and attempt the odd numbered exercises in questions 1 to 45.
@@ -1499,7 +1499,7 @@ previous: ../Intro
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 1, Section 1.9: Solving Linear
         Equations - Age
-        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Problems"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Note that this reading also
@@ -1519,7 +1519,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Age
         Problem - Variable
-        Now"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Now"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 28 of Wallace's workbook to
         practice solving word problems that ask you to solve for a
@@ -1588,7 +1588,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Age
         Problem - Sum Now" and "Age Problems - Variable
-        Time"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Time"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
             
          Instructions: Complete pages 29 and 30 of Wallace's workbook to
@@ -1627,7 +1627,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Age
-        Problems"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1.9-Age-Practice.pdf) (PDF)  
+        Problems"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1.9-Age-Practice.pdf) (PDF)  
            
          Instructions: Answer the odd numbered problems for questions 1
         to 39. Solutions are on page 4 of the PDF.  
@@ -1647,7 +1647,7 @@ previous: ../Intro
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Unit 1 Practice
-        Test"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MPC_95_Module_A_Practice_Test.pdf) (PDF)  
+        Test"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MPC_95_Module_A_Practice_Test.pdf) (PDF)  
            
          Instructions: Review Unit 1 before taking this practice test.
         Be sure that you are ready before taking the practice test, as
@@ -1657,7 +1657,7 @@ previous: ../Intro
         watching the videos to prep for the practice test. When you have
         finished this practice test, check your answers against The
         Saylor Foundation's ["Unit 1 Practice Test - Answer
-        Key"](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA001-Unit-1-Practice-Test-Solutions-FINAL.pdf).  
+        Key"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/MA001-Unit-1-Practice-Test-Solutions-FINAL.pdf).  
            
          Completing this practice test should take approximately 3
         hours.  
