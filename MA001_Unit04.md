@@ -40,7 +40,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.1: Factoring -
         Greatest Common
-        Factor"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Factor"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Pay special attention to page
         212. Note that this reading also covers the material you need to
@@ -65,7 +65,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["GCF
         and Grouping - Find the
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 73 of Wallace's workbook to
         practice finding the greatest common factor. Try to complete
@@ -111,7 +111,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["GCF
         and Grouping - Factor
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 74 of Wallace's workbook to
         practice factoring the greatest common factor. Try to complete
@@ -165,7 +165,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.2: Factoring -
-        Grouping"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        Grouping"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Pay special attention to page
@@ -185,7 +185,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["GCF
         and Grouping - Binomial
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 75 of Wallace's workbook to
         practice factoring the greatest common factor. Try to complete
@@ -245,9 +245,9 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["GCF
         and Grouping -
-        Grouping"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Grouping"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF) and ["GCF and Grouping - Change
-        Order"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Order"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete pages 76 and 77 of Wallace's workbook to
         practice with grouping and order change. Try to complete this
@@ -288,9 +288,9 @@
 
         Links: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Greatest Common
-        Factor"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.1-GCF-Practice.pdf) (PDF)
+        Factor"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.1-GCF-Practice.pdf) (PDF)
         and ["Practice -
-        Grouping"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.2-Grouping-Practice.pdf) (PDF)  
+        Grouping"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.2-Grouping-Practice.pdf) (PDF)  
            
          Instructions: For the first link to "Practice - Greatest Common
         Factor," answer every other odd-numbered problem for questions 1
@@ -315,7 +315,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.3: Factoring -
         Trinomials Where a =
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf)
         (PDF)  
            
          Instructions: Read this section. Pay special attention to page
@@ -342,7 +342,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Trinomials - a =
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 80 of Wallace's workbook to
         practice with trinomials when a = 1. Try to complete this
@@ -404,7 +404,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Trinomials - a = 1 with
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 81 of Wallace's workbook for more
         practice with trinomials when a = 1. Try to complete this
@@ -445,7 +445,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.4: Factoring -
         Trinomials Where a ≠
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. When we multiply polynomials
         we are distributing across parentheses. Here we are doing the
@@ -469,7 +469,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Trinomials - a ≠
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 78 of Wallace's workbook for
         practice with trinomials when a ≠ 1. Try to complete this
@@ -551,7 +551,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Trinomials - a ≠ 1 with
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 79 of Wallace's workbook for more
         practice with trinomials when a ≠ 1. Try to complete this
@@ -608,9 +608,9 @@
 
         Links: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Trinomials Where a =
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.3-Trinomials-a1-Practice.pdf) (PDF)
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.3-Trinomials-a1-Practice.pdf) (PDF)
         and ["Practice - Trinomials Where a ≠
-        1"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.4-Trinomials-a-not-1-Practice.pdf) (PDF)  
+        1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.4-Trinomials-a-not-1-Practice.pdf) (PDF)  
            
          Instructions: For the first link to "Practice - Trinomials
         Where a = 1," answer the odd-numbered problems 1to 25. For the
@@ -635,12 +635,12 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.5: Factoring -
         Factoring Special
-        Products"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Products"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. There is an error in Exercise
         308 on page 231. You can find the correction in the Saylor
         Foundation's ["Correction to Exercise 308, Page
-        231"](https://resources.saylor.org/archived/wp-content/uploads/2012/03/MA001-4.3-Correction.pdf).
+        231"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/MA001-4.3-Correction.pdf).
         Note that this reading covers the material you need to know for
         subunits 4.3.1-4.3.6.  
            
@@ -663,7 +663,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab
         Notebook*: ["Special Products - Difference of
-        Squares"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Squares"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 82 of Wallace's workbook to
         reinforce your understanding of differences of squares. Try to
@@ -720,7 +720,7 @@
 
         Link: Tyler Wallace's Beginning Algebra Lab Notebook: ["Special
         Products - Sum of
-        Squares"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Squares"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 83 of Wallace's workbook to
         reinforce your understanding of sum of squares. Try to complete
@@ -764,7 +764,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Special Products - Difference of 4<sup>th</sup>
-        Powers"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Powers"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 84 of Wallace's workbook to
         reinforce your understanding the difference of 4<sup>th</sup>
@@ -809,7 +809,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Special Products - Perfect
-        Squares"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Squares"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 85 of Wallace's workbook for
         practice with perfect squares. Try to complete this exercise
@@ -860,14 +860,14 @@
     Focus on pages 231 and 232. Note that there is an error in Exercise
     308 on page 231. You can find a correction in The Saylor
     Foundation's ["Correction to Exercise 308, Page
-    231"](https://resources.saylor.org/archived/wp-content/uploads/2012/03/MA001-4.3-Correction.pdf).*
+    231"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/MA001-4.3-Correction.pdf).*
 
     -   **Activity: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         "Special Products - Cubes"**
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Special Products -
-        Cubes"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Cubes"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 86 of Wallace's workbook to
         practice with cubes. Try to complete this exercise before
@@ -923,7 +923,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Special Products -
-        GCF"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        GCF"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 87 of Wallace's workbook for
         practice with the greatest common factor in terms of special
@@ -964,7 +964,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Factoring Special
-        Products"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.5-Factor-Special-Products-Practice.pdf) (PDF)  
+        Products"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.5-Factor-Special-Products-Practice.pdf) (PDF)  
            
          Instructions: Answer all of the odd-numbered problems for
         questions 1 through 47. Solutions appear on page 2 of the PDF.  
@@ -987,7 +987,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.6: Factoring -
         Factoring
-        Strategy"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Strategy"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Pay special attention to page
         234. Note that this reading corresponds to the workbook
@@ -1006,7 +1006,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*:
         ["Factoring Strategy -
-        Strategy"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Strategy"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 88 of Wallace's workbook to
         reinforce your knowledge of when to use certain methods of
@@ -1061,7 +1061,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.7: Factoring -
         Solve by
-        Factoring"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Factoring"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Here we emphasize how we can
         solve problems by factoring. Focus on the rule - "if ab = 0,
@@ -1085,7 +1085,7 @@
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Chapter 6, Section 6.7: Factoring -
         Solve by
-        Factoring"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
+        Factoring"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR-MA001-TEXT.pdf) (PDF)  
            
          Instructions: Read this section. Here we emphasize how we can
         solve problems by factoring. Focus on the rule - "if ab = 0,
@@ -1111,7 +1111,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Solve
         by Factoring - Zero Product
-        Property"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Property"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 89 of Wallace's workbook to
         reinforce your knowledge of the zero product property. Try to
@@ -1182,7 +1182,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Solve
         by Factoring - Need to
-        Factor"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Factor"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 90 of Wallace's workbook for
         practice with factoring. Try to complete this exercise before
@@ -1260,7 +1260,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Solve
         by Factoring - Equal to
-        Zero"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
+        Zero"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf)
         (PDF)  
            
          Instructions: Complete page 91 of Wallace's workbook for
@@ -1304,7 +1304,7 @@
 
         Link: Tyler Wallace's *Beginning Algebra Lab Notebook*: ["Solve
         by Factoring -
-        Simplify"](https://resources.saylor.org/archived/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
+        Simplify"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/beginning-algebra-lab-notebook.pdf) (PDF)  
            
          Instructions: Complete page 92 of Wallace's workbook for
         practice with simplifying and factoring. Try to complete this
@@ -1345,7 +1345,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Practice - Solve by
-        Factoring"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/6.7-Solve-by-Factoring-Practice.pdf)
+        Factoring"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/6.7-Solve-by-Factoring-Practice.pdf)
         (PDF)  
             
          Instructions: Answer all of the odd-numbered problems for
@@ -1366,7 +1366,7 @@
 
         Link: Tyler Wallace's *Beginning and Intermediate Algebra*,
         2<sup>nd</sup> edition: ["Unit 4 Practice
-        Test"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MPC_95_Module_D_Practice_Test.pdf) (PDF)  
+        Test"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MPC_95_Module_D_Practice_Test.pdf) (PDF)  
            
          Instructions: Review Unit 4 before taking this practice test.
         Be sure that you are ready before taking the practice test, as
@@ -1376,7 +1376,7 @@
         the practice test. When you have finished this practice test,
         you may check your answers against the Saylor Foundation's
         ["Unit 4 Practice Test - Answer
-        Key"](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA001-Unit-4-Practice-Test-Solutions-FINAL.pdf).  
+        Key"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/MA001-Unit-4-Practice-Test-Solutions-FINAL.pdf).  
            
          Completing this practice test should take approximately 3
         hours.  
